@@ -1,4 +1,8 @@
-# My-music-website-
+cd my-music-website
+npm install
+3. Build करें
+npm run build
+- यह build/ folder में optimized production files बनाएगा।# My-music-website-
 This is my first git repository 
 public/
 │ └─ index.html
