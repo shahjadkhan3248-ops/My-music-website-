@@ -1,4 +1,6 @@
-cd my-music-website
+Windows: Folder पर right-click → Send to → Compressed (zipped) folder
+Mac: Folder पर right-click → Compress "my-music-website"
+Linux: Terminal में zip -r my-music-website.zip my-music-website/cd my-music-website
 npm install
 3. Build करें
 npm run build
